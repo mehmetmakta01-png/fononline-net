@@ -1,0 +1,17 @@
+# 🛡️ ORAK1261 Siber Güvenlik Protokolü
+
+## 📡 Güvenlik Politikası
+Bu proje, **ORAK1261 v3.0** siber güvenlik standartları ile korunmaktadır. Herhangi bir siber sızma girişimi veya zafiyet tespiti durumunda aşağıdaki prosedürler izlenmelidir.
+
+### 🛡️ Desteklenen Sürümler
+| Sürüm | Destek Durumu |
+| :--- | :--- |
+| v3.0 (Güncel) | ✅ Destekleniyor |
+| v2.0 | ⚠️ Sadece Kritik Yamalar |
+| v1.0 | ❌ Desteklenmiyor |
+
+### 🚨 Zafiyet Bildirimi
+Eğer bir güvenlik açığı bulduysanız, lütfen bunu halka açık bir "Issue" (Sorun) olarak bildirmek yerine doğrudan **mehmetmakta01-png** ana karargahı üzerinden iletişime geçiniz. 
+
+---
+> **Mühür:** Bu dosya Şanlıurfa / Sinyal Üstü siber savunma hattı tarafından onaylanmıştır.
